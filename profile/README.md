@@ -1,4 +1,5 @@
-## Equipe de competição de robôs voadores autônomos (drones), participante da Competição Brasileira de Robótica (CBR)🤖
+## Equipe de competição de robôs voadores autônomos (drones)🚁
+# Participante da Competição Brasileira de Robótica (CBR)🤖
 
 <!--
 **Here are some ideas to get you started:**
