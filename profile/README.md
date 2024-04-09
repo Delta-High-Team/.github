@@ -1,7 +1,6 @@
-## Hi there 👋
+## Equipe de competição de robôs voadores autônomos (drones), participante da Competição Brasileira de Robótica (CBR)🤖
 
 <!--
-
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
